@@ -1,5 +1,5 @@
-2026-10-19 23:15:58,997 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by ConnectTimeoutError(<HTTPConnection(host='rihou.cc', port=567) at 0x7f50e07d1330>, 'Connection to rihou.cc timed out. (connect timeout=None)'))
-2026-10-19 23:16:00,166 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 获取成功，判断为txt格式
-2026-10-19 23:16:00,928 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
-2026-10-19 23:16:01,725 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
-2026-10-19 23:16:01,729 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
+2026-10-20 05:59:10,995 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by ConnectTimeoutError(<HTTPConnection(host='rihou.cc', port=567) at 0x7f63642c5330>, 'Connection to rihou.cc timed out. (connect timeout=None)'))
+2026-10-20 05:59:12,995 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 获取成功，判断为txt格式
+2026-10-20 05:59:13,697 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
+2026-10-20 05:59:14,523 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
+2026-10-20 05:59:14,525 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
